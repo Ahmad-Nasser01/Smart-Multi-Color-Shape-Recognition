@@ -13,5 +13,3 @@ This project is an advanced computer vision application built with **Python** an
 Make sure you have the following libraries installed in your environment:
 ```bash
 pip install opencv-python numpy
-## 📸 Demo Output
-![Smart Color and Shape Recognition Result](color-recognition%20result.png)
