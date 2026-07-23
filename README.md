@@ -13,4 +13,4 @@ This project is an advanced computer vision application built with **Python** an
 Make sure you have the following libraries installed in your environment:
 ```bash
 ## 📸 Demo Output
-![Smart Color and Shape Recognition Result](color-recognition result.jpg)
+![Smart Color and Shape Recognition Result](color-recognition%20result.png)
