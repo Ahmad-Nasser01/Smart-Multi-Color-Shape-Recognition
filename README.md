@@ -1,7 +1,7 @@
 # Smart Object & Multi-Color Recognition System
 
 ## 📌 Project Overview
-This project is an advanced computer vision application built with **Python** and **OpenCV**. It goes beyond basic color detection by integrating **Multi-Color Recognition** (including White and Black), **Geometric Shape Classification** (Square, Rectangle, Triangle), a **Real-time Smart Inventory Dashboard**, and **Motion Smoothing algorithms** for stable performance.
+This project is an advanced computer vision application built with **Python** and **OpenCV**. It goes beyond basic color detection by integrating **Multi-Color Recognition** (including White and Black), **Geometric Shape Classification** (Square, Rectangle, Triangle), a **Real-time Smart Inventory Dashboard**, and **Motion Smoothing** algorithms for stable performance.
 
 ## 🚀 Key Features
 - **Multi-Color Detection:** Recognizes Blue, Green, Red, Yellow, White, and Black objects simultaneously.
@@ -12,5 +12,4 @@ This project is an advanced computer vision application built with **Python** an
 ## 🛠️ Prerequisites & Libraries
 Make sure you have the following libraries installed in your environment:
 ```bash
-## 📸 Demo Output
-![Smart Color and Shape Recognition Result](color-recognition%20result.png)
+pip install opencv-python numpy
